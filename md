@@ -6,7 +6,7 @@ How does this support the overall project/company goal?​
 It's a simply designed idea​
 Works for the controller specification​
 It involves 2 players​
-It's in the time limit of 30-60 seconds​
+It's in the time limit of 30-60 seconds​.
 
 ### What is our Mechanic
 Teamwork and navigation (ie: there could be a blue door that the second player need to go through but cannot until the first player clicks a button)​
